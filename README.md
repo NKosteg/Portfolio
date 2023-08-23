@@ -8,8 +8,8 @@
 
 ## Навыки и технологии
 
-Jira, Qase.io, Confluens, Trello, Яндекс.Трекер, Miro, Sitechco
-Postman, Swagger, Mockoon, SoapUI, SQL, pgAdmin, Cygwin64 Terminal, PowerShell,
+Jira, Qase.io, Confluens, Trello, Яндекс.Трекер, Miro, Sitechco,  
+Postman, Swagger, Mockoon, SoapUI, SQL, pgAdmin, Cygwin64 Terminal, PowerShell,  
 Jmeter, Android Studio, Charles, Chrome DevTools.
 
 ## Проекты
