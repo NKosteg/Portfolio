@@ -8,9 +8,9 @@
 
 ## Навыки и технологии
 
-Jira, Qase.io, Confluens, Trello, Яндекс.Трекер, Miro, Sitechco,  
+Jira, Qase.io, Confluens, Trello, Яндекс.Трекер, Miro, Sitechco,    
 Postman, Swagger, Mockoon, SoapUI, SQL, pgAdmin, Cygwin64 Terminal, PowerShell,  
-Jmeter, Android Studio, Charles, Chrome DevTools.
+Jmeter, Android Studio, Charles, Chrome DevTools.  
 
 ## Проекты
 
@@ -18,7 +18,8 @@ Jmeter, Android Studio, Charles, Chrome DevTools.
 
 ###### Что нужно было сделать:
 
-1️. Сделать тест-план
-2️. Подготовить тестовую документацию
-3️. Провести тестирование
-4️. Написать отчет о результатах тестирования
+1. Сделать тест-план
+2. Подготовить тестовую документацию
+3. Провести тестирование
+4. Написать отчёт о результатах тестирования
+
