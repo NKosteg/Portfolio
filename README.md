@@ -24,7 +24,7 @@ Jmeter, Android Studio, Charles, Chrome DevTools.
 4. Написать отчёт о результатах тестирования
 
 ##### Как решал:  
-Ссылка на проект: Проект 1.pdf    
+Ссылка на проект: https://github.com/NKosteg/Portfolio/blob/c2d4fd9886b0697811e03419760500d7f52c45cb/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.pdf   
 ##### Выводы (итоги):  
 
 #### Проект 2. Тестирование API кабинета учителя в приложении Skyeng.
